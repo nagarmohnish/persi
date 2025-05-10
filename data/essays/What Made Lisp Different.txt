@@ -1,0 +1,1 @@
+(This article came about in response to some questions on the LL1 mailing list. It is now incorporated in Revenge of the Nerds.)When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was Fortran.Lisp embodied nine new ideas:
