@@ -1,0 +1,1157 @@
+[
+  {
+    "title": "",
+    "url": "https://www.paulgraham.com/index.html",
+    "file_path": "essays/.txt"
+  },
+  {
+    "title": "How to Do Great Work",
+    "url": "https://www.paulgraham.com/greatwork.html",
+    "file_path": "essays/How to Do Great Work.txt"
+  },
+  {
+    "title": "Having Kids",
+    "url": "https://www.paulgraham.com/kids.html",
+    "file_path": "essays/Having Kids.txt"
+  },
+  {
+    "title": "How to Lose Time and Money",
+    "url": "https://www.paulgraham.com/selfindulgence.html",
+    "file_path": "essays/How to Lose Time and Money.txt"
+  },
+  {
+    "title": "What to Do",
+    "url": "https://www.paulgraham.com/do.html",
+    "file_path": "essays/What to Do.txt"
+  },
+  {
+    "title": "The Origins of Wokeness",
+    "url": "https://www.paulgraham.com/woke.html",
+    "file_path": "essays/The Origins of Wokeness.txt"
+  },
+  {
+    "title": "Writes and Write-Nots",
+    "url": "https://www.paulgraham.com/writes.html",
+    "file_path": "essays/Writes and Write-Nots.txt"
+  },
+  {
+    "title": "When To Do What You Love",
+    "url": "https://www.paulgraham.com/when.html",
+    "file_path": "essays/When To Do What You Love.txt"
+  },
+  {
+    "title": "Founder Mode",
+    "url": "https://www.paulgraham.com/foundermode.html",
+    "file_path": "essays/Founder Mode.txt"
+  },
+  {
+    "title": "The Right Kind of Stubborn",
+    "url": "https://www.paulgraham.com/persistence.html",
+    "file_path": "essays/The Right Kind of Stubborn.txt"
+  },
+  {
+    "title": "The Reddits",
+    "url": "https://www.paulgraham.com/reddits.html",
+    "file_path": "essays/The Reddits.txt"
+  },
+  {
+    "title": "How to Start Google",
+    "url": "https://www.paulgraham.com/google.html",
+    "file_path": "essays/How to Start Google.txt"
+  },
+  {
+    "title": "The Best Essay",
+    "url": "https://www.paulgraham.com/best.html",
+    "file_path": "essays/The Best Essay.txt"
+  },
+  {
+    "title": "Superlinear Returns",
+    "url": "https://www.paulgraham.com/superlinear.html",
+    "file_path": "essays/Superlinear Returns.txt"
+  },
+  {
+    "title": "How to Do Great Work",
+    "url": "https://www.paulgraham.com/greatwork.html",
+    "file_path": "essays/How to Do Great Work.txt"
+  },
+  {
+    "title": "How to Get New Ideas",
+    "url": "https://www.paulgraham.com/getideas.html",
+    "file_path": "essays/How to Get New Ideas.txt"
+  },
+  {
+    "title": "The Need to Read",
+    "url": "https://www.paulgraham.com/read.html",
+    "file_path": "essays/The Need to Read.txt"
+  },
+  {
+    "title": "What You (Want to)* Want",
+    "url": "https://www.paulgraham.com/want.html",
+    "file_path": "essays/What You (Want to)* Want.txt"
+  },
+  {
+    "title": "Alien Truth",
+    "url": "https://www.paulgraham.com/alien.html",
+    "file_path": "essays/Alien Truth.txt"
+  },
+  {
+    "title": "What I've Learned from Users",
+    "url": "https://www.paulgraham.com/users.html",
+    "file_path": "essays/What I've Learned from Users.txt"
+  },
+  {
+    "title": "Heresy",
+    "url": "https://www.paulgraham.com/heresy.html",
+    "file_path": "essays/Heresy.txt"
+  },
+  {
+    "title": "Putting Ideas into Words",
+    "url": "https://www.paulgraham.com/words.html",
+    "file_path": "essays/Putting Ideas into Words.txt"
+  },
+  {
+    "title": "Is There Such a Thing as Good Taste?",
+    "url": "https://www.paulgraham.com/goodtaste.html",
+    "file_path": "essays/Is There Such a Thing as Good Taste?.txt"
+  },
+  {
+    "title": "Beyond Smart",
+    "url": "https://www.paulgraham.com/smart.html",
+    "file_path": "essays/Beyond Smart.txt"
+  },
+  {
+    "title": "Weird Languages",
+    "url": "https://www.paulgraham.com/weird.html",
+    "file_path": "essays/Weird Languages.txt"
+  },
+  {
+    "title": "How to Work Hard",
+    "url": "https://www.paulgraham.com/hwh.html",
+    "file_path": "essays/How to Work Hard.txt"
+  },
+  {
+    "title": "A Project of One's Own",
+    "url": "https://www.paulgraham.com/own.html",
+    "file_path": "essays/A Project of One's Own.txt"
+  },
+  {
+    "title": "Fierce Nerds",
+    "url": "https://www.paulgraham.com/fn.html",
+    "file_path": "essays/Fierce Nerds.txt"
+  },
+  {
+    "title": "Crazy New Ideas",
+    "url": "https://www.paulgraham.com/newideas.html",
+    "file_path": "essays/Crazy New Ideas.txt"
+  },
+  {
+    "title": "An NFT That Saves Lives",
+    "url": "https://www.paulgraham.com/nft.html",
+    "file_path": "essays/An NFT That Saves Lives.txt"
+  },
+  {
+    "title": "The Real Reason to End the Death Penalty",
+    "url": "https://www.paulgraham.com/real.html",
+    "file_path": "essays/The Real Reason to End the Death Penalty.txt"
+  },
+  {
+    "title": "How People Get Rich Now",
+    "url": "https://www.paulgraham.com/richnow.html",
+    "file_path": "essays/How People Get Rich Now.txt"
+  },
+  {
+    "title": "Write Simply",
+    "url": "https://www.paulgraham.com/simply.html",
+    "file_path": "essays/Write Simply.txt"
+  },
+  {
+    "title": "Donate Unrestricted",
+    "url": "https://www.paulgraham.com/donate.html",
+    "file_path": "essays/Donate Unrestricted.txt"
+  },
+  {
+    "title": "What I Worked On",
+    "url": "https://www.paulgraham.com/worked.html",
+    "file_path": "essays/What I Worked On.txt"
+  },
+  {
+    "title": "Earnestness",
+    "url": "https://www.paulgraham.com/earnest.html",
+    "file_path": "essays/Earnestness.txt"
+  },
+  {
+    "title": "Billionaires Build",
+    "url": "https://www.paulgraham.com/ace.html",
+    "file_path": "essays/Billionaires Build.txt"
+  },
+  {
+    "title": "The Airbnbs",
+    "url": "https://www.paulgraham.com/airbnbs.html",
+    "file_path": "essays/The Airbnbs.txt"
+  },
+  {
+    "title": "How to Think for Yourself",
+    "url": "https://www.paulgraham.com/think.html",
+    "file_path": "essays/How to Think for Yourself.txt"
+  },
+  {
+    "title": "Early Work",
+    "url": "https://www.paulgraham.com/early.html",
+    "file_path": "essays/Early Work.txt"
+  },
+  {
+    "title": "Modeling a Wealth Tax",
+    "url": "https://www.paulgraham.com/wtax.html",
+    "file_path": "essays/Modeling a Wealth Tax.txt"
+  },
+  {
+    "title": "The Four Quadrants of Conformism",
+    "url": "https://www.paulgraham.com/conformism.html",
+    "file_path": "essays/The Four Quadrants of Conformism.txt"
+  },
+  {
+    "title": "Orthodox Privilege",
+    "url": "https://www.paulgraham.com/orth.html",
+    "file_path": "essays/Orthodox Privilege.txt"
+  },
+  {
+    "title": "Coronavirus and Credibility",
+    "url": "https://www.paulgraham.com/cred.html",
+    "file_path": "essays/Coronavirus and Credibility.txt"
+  },
+  {
+    "title": "How to Write Usefully",
+    "url": "https://www.paulgraham.com/useful.html",
+    "file_path": "essays/How to Write Usefully.txt"
+  },
+  {
+    "title": "Being a Noob",
+    "url": "https://www.paulgraham.com/noob.html",
+    "file_path": "essays/Being a Noob.txt"
+  },
+  {
+    "title": "Haters",
+    "url": "https://www.paulgraham.com/fh.html",
+    "file_path": "essays/Haters.txt"
+  },
+  {
+    "title": "The Two Kinds of Moderate",
+    "url": "https://www.paulgraham.com/mod.html",
+    "file_path": "essays/The Two Kinds of Moderate.txt"
+  },
+  {
+    "title": "Fashionable Problems",
+    "url": "https://www.paulgraham.com/fp.html",
+    "file_path": "essays/Fashionable Problems.txt"
+  },
+  {
+    "title": "Having Kids",
+    "url": "https://www.paulgraham.com/kids.html",
+    "file_path": "essays/Having Kids.txt"
+  },
+  {
+    "title": "The Lesson to Unlearn",
+    "url": "https://www.paulgraham.com/lesson.html",
+    "file_path": "essays/The Lesson to Unlearn.txt"
+  },
+  {
+    "title": "Novelty and Heresy",
+    "url": "https://www.paulgraham.com/nov.html",
+    "file_path": "essays/Novelty and Heresy.txt"
+  },
+  {
+    "title": "The Bus Ticket Theory of Genius",
+    "url": "https://www.paulgraham.com/genius.html",
+    "file_path": "essays/The Bus Ticket Theory of Genius.txt"
+  },
+  {
+    "title": "General and Surprising",
+    "url": "https://www.paulgraham.com/sun.html",
+    "file_path": "essays/General and Surprising.txt"
+  },
+  {
+    "title": "Charisma / Power",
+    "url": "https://www.paulgraham.com/pow.html",
+    "file_path": "essays/Charisma - Power.txt"
+  },
+  {
+    "title": "The Risk of Discovery",
+    "url": "https://www.paulgraham.com/disc.html",
+    "file_path": "essays/The Risk of Discovery.txt"
+  },
+  {
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "url": "https://www.paulgraham.com/pgh.html",
+    "file_path": "essays/How to Make Pittsburgh a Startup Hub.txt"
+  },
+  {
+    "title": "Life is Short",
+    "url": "https://www.paulgraham.com/vb.html",
+    "file_path": "essays/Life is Short.txt"
+  },
+  {
+    "title": "Economic Inequality",
+    "url": "https://www.paulgraham.com/ineq.html",
+    "file_path": "essays/Economic Inequality.txt"
+  },
+  {
+    "title": "The Refragmentation",
+    "url": "https://www.paulgraham.com/re.html",
+    "file_path": "essays/The Refragmentation.txt"
+  },
+  {
+    "title": "Jessica Livingston",
+    "url": "https://www.paulgraham.com/jessica.html",
+    "file_path": "essays/Jessica Livingston.txt"
+  },
+  {
+    "title": "A Way to Detect Bias",
+    "url": "https://www.paulgraham.com/bias.html",
+    "file_path": "essays/A Way to Detect Bias.txt"
+  },
+  {
+    "title": "Write Like You Talk",
+    "url": "https://www.paulgraham.com/talk.html",
+    "file_path": "essays/Write Like You Talk.txt"
+  },
+  {
+    "title": "Default Alive or Default Dead?",
+    "url": "https://www.paulgraham.com/aord.html",
+    "file_path": "essays/Default Alive or Default Dead?.txt"
+  },
+  {
+    "title": "Why It's Safe for Founders to Be Nice",
+    "url": "https://www.paulgraham.com/safe.html",
+    "file_path": "essays/Why It's Safe for Founders to Be Nice.txt"
+  },
+  {
+    "title": "Change Your Name",
+    "url": "https://www.paulgraham.com/name.html",
+    "file_path": "essays/Change Your Name.txt"
+  },
+  {
+    "title": "What Microsoft Is this the Altair Basic of?",
+    "url": "https://www.paulgraham.com/altair.html",
+    "file_path": "essays/What Microsoft Is this the Altair Basic of?.txt"
+  },
+  {
+    "title": "The Ronco Principle",
+    "url": "https://www.paulgraham.com/ronco.html",
+    "file_path": "essays/The Ronco Principle.txt"
+  },
+  {
+    "title": "What Doesn't Seem Like Work?",
+    "url": "https://www.paulgraham.com/work.html",
+    "file_path": "essays/What Doesn't Seem Like Work?.txt"
+  },
+  {
+    "title": "Don't Talk to Corp Dev",
+    "url": "https://www.paulgraham.com/corpdev.html",
+    "file_path": "essays/Don't Talk to Corp Dev.txt"
+  },
+  {
+    "title": "Let the Other 95% of Great Programmers In",
+    "url": "https://www.paulgraham.com/95.html",
+    "file_path": "essays/Let the Other 95% of Great Programmers In.txt"
+  },
+  {
+    "title": "How to Be an Expert in a Changing World",
+    "url": "https://www.paulgraham.com/ecw.html",
+    "file_path": "essays/How to Be an Expert in a Changing World.txt"
+  },
+  {
+    "title": "How You Know",
+    "url": "https://www.paulgraham.com/know.html",
+    "file_path": "essays/How You Know.txt"
+  },
+  {
+    "title": "The Fatal Pinch",
+    "url": "https://www.paulgraham.com/pinch.html",
+    "file_path": "essays/The Fatal Pinch.txt"
+  },
+  {
+    "title": "Mean People Fail",
+    "url": "https://www.paulgraham.com/mean.html",
+    "file_path": "essays/Mean People Fail.txt"
+  },
+  {
+    "title": "Before the Startup",
+    "url": "https://www.paulgraham.com/before.html",
+    "file_path": "essays/Before the Startup.txt"
+  },
+  {
+    "title": "How to Raise Money",
+    "url": "https://www.paulgraham.com/fr.html",
+    "file_path": "essays/How to Raise Money.txt"
+  },
+  {
+    "title": "Investor Herd Dynamics",
+    "url": "https://www.paulgraham.com/herd.html",
+    "file_path": "essays/Investor Herd Dynamics.txt"
+  },
+  {
+    "title": "How to Convince Investors",
+    "url": "https://www.paulgraham.com/convince.html",
+    "file_path": "essays/How to Convince Investors.txt"
+  },
+  {
+    "title": "Do Things that Don't Scale",
+    "url": "https://www.paulgraham.com/ds.html",
+    "file_path": "essays/Do Things that Don't Scale.txt"
+  },
+  {
+    "title": "Startup Investing Trends",
+    "url": "https://www.paulgraham.com/invtrend.html",
+    "file_path": "essays/Startup Investing Trends.txt"
+  },
+  {
+    "title": "How to Get Startup Ideas",
+    "url": "https://www.paulgraham.com/startupideas.html",
+    "file_path": "essays/How to Get Startup Ideas.txt"
+  },
+  {
+    "title": "The Hardware Renaissance",
+    "url": "https://www.paulgraham.com/hw.html",
+    "file_path": "essays/The Hardware Renaissance.txt"
+  },
+  {
+    "title": "Startup = Growth",
+    "url": "https://www.paulgraham.com/growth.html",
+    "file_path": "essays/Startup = Growth.txt"
+  },
+  {
+    "title": "Black Swan Farming",
+    "url": "https://www.paulgraham.com/swan.html",
+    "file_path": "essays/Black Swan Farming.txt"
+  },
+  {
+    "title": "The Top of My Todo List",
+    "url": "https://www.paulgraham.com/todo.html",
+    "file_path": "essays/The Top of My Todo List.txt"
+  },
+  {
+    "title": "Writing and Speaking",
+    "url": "https://www.paulgraham.com/speak.html",
+    "file_path": "essays/Writing and Speaking.txt"
+  },
+  {
+    "title": "How Y Combinator Started",
+    "url": "https://www.paulgraham.com/ycstart.html",
+    "file_path": "essays/How Y Combinator Started.txt"
+  },
+  {
+    "title": "Defining Property",
+    "url": "https://www.paulgraham.com/property.html",
+    "file_path": "essays/Defining Property.txt"
+  },
+  {
+    "title": "Frighteningly Ambitious Startup Ideas",
+    "url": "https://www.paulgraham.com/ambitious.html",
+    "file_path": "essays/Frighteningly Ambitious Startup Ideas.txt"
+  },
+  {
+    "title": "A Word to the Resourceful",
+    "url": "https://www.paulgraham.com/word.html",
+    "file_path": "essays/A Word to the Resourceful.txt"
+  },
+  {
+    "title": "Schlep Blindness",
+    "url": "https://www.paulgraham.com/schlep.html",
+    "file_path": "essays/Schlep Blindness.txt"
+  },
+  {
+    "title": "Snapshot: Viaweb, June 1998",
+    "url": "https://www.paulgraham.com/vw.html",
+    "file_path": "essays/Snapshot: Viaweb, June 1998.txt"
+  },
+  {
+    "title": "Why Startup Hubs Work",
+    "url": "https://www.paulgraham.com/hubs.html",
+    "file_path": "essays/Why Startup Hubs Work.txt"
+  },
+  {
+    "title": "The Patent Pledge",
+    "url": "https://www.paulgraham.com/patentpledge.html",
+    "file_path": "essays/The Patent Pledge.txt"
+  },
+  {
+    "title": "Subject: Airbnb",
+    "url": "https://www.paulgraham.com/airbnb.html",
+    "file_path": "essays/Subject: Airbnb.txt"
+  },
+  {
+    "title": "Founder Control",
+    "url": "https://www.paulgraham.com/control.html",
+    "file_path": "essays/Founder Control.txt"
+  },
+  {
+    "title": "Tablets",
+    "url": "https://www.paulgraham.com/tablets.html",
+    "file_path": "essays/Tablets.txt"
+  },
+  {
+    "title": "What We Look for in Founders",
+    "url": "https://www.paulgraham.com/founders.html",
+    "file_path": "essays/What We Look for in Founders.txt"
+  },
+  {
+    "title": "The New Funding Landscape",
+    "url": "https://www.paulgraham.com/superangels.html",
+    "file_path": "essays/The New Funding Landscape.txt"
+  },
+  {
+    "title": "Where to See Silicon Valley",
+    "url": "https://www.paulgraham.com/seesv.html",
+    "file_path": "essays/Where to See Silicon Valley.txt"
+  },
+  {
+    "title": "High Resolution Fundraising",
+    "url": "https://www.paulgraham.com/hiresfund.html",
+    "file_path": "essays/High Resolution Fundraising.txt"
+  },
+  {
+    "title": "What Happened to Yahoo",
+    "url": "https://www.paulgraham.com/yahoo.html",
+    "file_path": "essays/What Happened to Yahoo.txt"
+  },
+  {
+    "title": "The Future of Startup Funding",
+    "url": "https://www.paulgraham.com/future.html",
+    "file_path": "essays/The Future of Startup Funding.txt"
+  },
+  {
+    "title": "The Acceleration of Addictiveness",
+    "url": "https://www.paulgraham.com/addiction.html",
+    "file_path": "essays/The Acceleration of Addictiveness.txt"
+  },
+  {
+    "title": "The Top Idea in Your Mind",
+    "url": "https://www.paulgraham.com/top.html",
+    "file_path": "essays/The Top Idea in Your Mind.txt"
+  },
+  {
+    "title": "How to Lose Time and Money",
+    "url": "https://www.paulgraham.com/selfindulgence.html",
+    "file_path": "essays/How to Lose Time and Money.txt"
+  },
+  {
+    "title": "Organic Startup Ideas",
+    "url": "https://www.paulgraham.com/organic.html",
+    "file_path": "essays/Organic Startup Ideas.txt"
+  },
+  {
+    "title": "Apple's Mistake",
+    "url": "https://www.paulgraham.com/apple.html",
+    "file_path": "essays/Apple's Mistake.txt"
+  },
+  {
+    "title": "What Startups Are Really Like",
+    "url": "https://www.paulgraham.com/really.html",
+    "file_path": "essays/What Startups Are Really Like.txt"
+  },
+  {
+    "title": "Persuade xor Discover",
+    "url": "https://www.paulgraham.com/discover.html",
+    "file_path": "essays/Persuade xor Discover.txt"
+  },
+  {
+    "title": "Post-Medium Publishing",
+    "url": "https://www.paulgraham.com/publishing.html",
+    "file_path": "essays/Post-Medium Publishing.txt"
+  },
+  {
+    "title": "The List of N Things",
+    "url": "https://www.paulgraham.com/nthings.html",
+    "file_path": "essays/The List of N Things.txt"
+  },
+  {
+    "title": "The Anatomy of Determination",
+    "url": "https://www.paulgraham.com/determination.html",
+    "file_path": "essays/The Anatomy of Determination.txt"
+  },
+  {
+    "title": "What Kate Saw in Silicon Valley",
+    "url": "https://www.paulgraham.com/kate.html",
+    "file_path": "essays/What Kate Saw in Silicon Valley.txt"
+  },
+  {
+    "title": "The Trouble with the Segway",
+    "url": "https://www.paulgraham.com/segway.html",
+    "file_path": "essays/The Trouble with the Segway.txt"
+  },
+  {
+    "title": "Ramen Profitable",
+    "url": "https://www.paulgraham.com/ramenprofitable.html",
+    "file_path": "essays/Ramen Profitable.txt"
+  },
+  {
+    "title": "Maker's Schedule, Manager's Schedule",
+    "url": "https://www.paulgraham.com/makersschedule.html",
+    "file_path": "essays/Maker's Schedule, Manager's Schedule.txt"
+  },
+  {
+    "title": "A Local Revolution?",
+    "url": "https://www.paulgraham.com/revolution.html",
+    "file_path": "essays/A Local Revolution?.txt"
+  },
+  {
+    "title": "Why Twitter is a Big Deal",
+    "url": "https://www.paulgraham.com/twitter.html",
+    "file_path": "essays/Why Twitter is a Big Deal.txt"
+  },
+  {
+    "title": "The Founder Visa",
+    "url": "https://www.paulgraham.com/foundervisa.html",
+    "file_path": "essays/The Founder Visa.txt"
+  },
+  {
+    "title": "Five Founders",
+    "url": "https://www.paulgraham.com/5founders.html",
+    "file_path": "essays/Five Founders.txt"
+  },
+  {
+    "title": "Relentlessly Resourceful",
+    "url": "https://www.paulgraham.com/relres.html",
+    "file_path": "essays/Relentlessly Resourceful.txt"
+  },
+  {
+    "title": "How to Be an Angel Investor",
+    "url": "https://www.paulgraham.com/angelinvesting.html",
+    "file_path": "essays/How to Be an Angel Investor.txt"
+  },
+  {
+    "title": "Why TV Lost",
+    "url": "https://www.paulgraham.com/convergence.html",
+    "file_path": "essays/Why TV Lost.txt"
+  },
+  {
+    "title": "Can You Buy a Silicon Valley?  Maybe.",
+    "url": "https://www.paulgraham.com/maybe.html",
+    "file_path": "essays/Can You Buy a Silicon Valley?  Maybe..txt"
+  },
+  {
+    "title": "What I've Learned from Hacker News",
+    "url": "https://www.paulgraham.com/hackernews.html",
+    "file_path": "essays/What I've Learned from Hacker News.txt"
+  },
+  {
+    "title": "Startups in 13 Sentences",
+    "url": "https://www.paulgraham.com/13sentences.html",
+    "file_path": "essays/Startups in 13 Sentences.txt"
+  },
+  {
+    "title": "Keep Your Identity Small",
+    "url": "https://www.paulgraham.com/identity.html",
+    "file_path": "essays/Keep Your Identity Small.txt"
+  },
+  {
+    "title": "After Credentials",
+    "url": "https://www.paulgraham.com/credentials.html",
+    "file_path": "essays/After Credentials.txt"
+  },
+  {
+    "title": "Could VC be a Casualty of the Recession?",
+    "url": "https://www.paulgraham.com/divergence.html",
+    "file_path": "essays/Could VC be a Casualty of the Recession?.txt"
+  },
+  {
+    "title": "The High-Res Society",
+    "url": "https://www.paulgraham.com/highres.html",
+    "file_path": "essays/The High-Res Society.txt"
+  },
+  {
+    "title": "The Other Half of \"Artists Ship\"",
+    "url": "https://www.paulgraham.com/artistsship.html",
+    "file_path": "essays/The Other Half of \"Artists Ship\".txt"
+  },
+  {
+    "title": "Why to Start a Startup in a Bad Economy",
+    "url": "https://www.paulgraham.com/badeconomy.html",
+    "file_path": "essays/Why to Start a Startup in a Bad Economy.txt"
+  },
+  {
+    "title": "A Fundraising Survival Guide",
+    "url": "https://www.paulgraham.com/fundraising.html",
+    "file_path": "essays/A Fundraising Survival Guide.txt"
+  },
+  {
+    "title": "The Pooled-Risk Company Management Company",
+    "url": "https://www.paulgraham.com/prcmc.html",
+    "file_path": "essays/The Pooled-Risk Company Management Company.txt"
+  },
+  {
+    "title": "Cities and Ambition",
+    "url": "https://www.paulgraham.com/cities.html",
+    "file_path": "essays/Cities and Ambition.txt"
+  },
+  {
+    "title": "Disconnecting Distraction",
+    "url": "https://www.paulgraham.com/distraction.html",
+    "file_path": "essays/Disconnecting Distraction.txt"
+  },
+  {
+    "title": "Lies We Tell Kids",
+    "url": "https://www.paulgraham.com/lies.html",
+    "file_path": "essays/Lies We Tell Kids.txt"
+  },
+  {
+    "title": "Be Good",
+    "url": "https://www.paulgraham.com/good.html",
+    "file_path": "essays/Be Good.txt"
+  },
+  {
+    "title": "Why There Aren't More Googles",
+    "url": "https://www.paulgraham.com/googles.html",
+    "file_path": "essays/Why There Aren't More Googles.txt"
+  },
+  {
+    "title": "Some Heroes",
+    "url": "https://www.paulgraham.com/heroes.html",
+    "file_path": "essays/Some Heroes.txt"
+  },
+  {
+    "title": "How to Disagree",
+    "url": "https://www.paulgraham.com/disagree.html",
+    "file_path": "essays/How to Disagree.txt"
+  },
+  {
+    "title": "You Weren't Meant to Have a Boss",
+    "url": "https://www.paulgraham.com/boss.html",
+    "file_path": "essays/You Weren't Meant to Have a Boss.txt"
+  },
+  {
+    "title": "A New Venture Animal",
+    "url": "https://www.paulgraham.com/ycombinator.html",
+    "file_path": "essays/A New Venture Animal.txt"
+  },
+  {
+    "title": "Trolls",
+    "url": "https://www.paulgraham.com/trolls.html",
+    "file_path": "essays/Trolls.txt"
+  },
+  {
+    "title": "Six Principles for Making New Things",
+    "url": "https://www.paulgraham.com/newthings.html",
+    "file_path": "essays/Six Principles for Making New Things.txt"
+  },
+  {
+    "title": "Why to Move to a Startup Hub",
+    "url": "https://www.paulgraham.com/startuphubs.html",
+    "file_path": "essays/Why to Move to a Startup Hub.txt"
+  },
+  {
+    "title": "The Future of Web Startups",
+    "url": "https://www.paulgraham.com/webstartups.html",
+    "file_path": "essays/The Future of Web Startups.txt"
+  },
+  {
+    "title": "How to Do Philosophy",
+    "url": "https://www.paulgraham.com/philosophy.html",
+    "file_path": "essays/How to Do Philosophy.txt"
+  },
+  {
+    "title": "News from the Front",
+    "url": "https://www.paulgraham.com/colleges.html",
+    "file_path": "essays/News from the Front.txt"
+  },
+  {
+    "title": "How Not to Die",
+    "url": "https://www.paulgraham.com/die.html",
+    "file_path": "essays/How Not to Die.txt"
+  },
+  {
+    "title": "Holding a Program in One's Head",
+    "url": "https://www.paulgraham.com/head.html",
+    "file_path": "essays/Holding a Program in One's Head.txt"
+  },
+  {
+    "title": "Stuff",
+    "url": "https://www.paulgraham.com/stuff.html",
+    "file_path": "essays/Stuff.txt"
+  },
+  {
+    "title": "The Equity Equation",
+    "url": "https://www.paulgraham.com/equity.html",
+    "file_path": "essays/The Equity Equation.txt"
+  },
+  {
+    "title": "An Alternative Theory of Unions",
+    "url": "https://www.paulgraham.com/unions.html",
+    "file_path": "essays/An Alternative Theory of Unions.txt"
+  },
+  {
+    "title": "The Hacker's Guide to Investors",
+    "url": "https://www.paulgraham.com/guidetoinvestors.html",
+    "file_path": "essays/The Hacker's Guide to Investors.txt"
+  },
+  {
+    "title": "Two Kinds of Judgement",
+    "url": "https://www.paulgraham.com/judgement.html",
+    "file_path": "essays/Two Kinds of Judgement.txt"
+  },
+  {
+    "title": "Microsoft is Dead",
+    "url": "https://www.paulgraham.com/microsoft.html",
+    "file_path": "essays/Microsoft is Dead.txt"
+  },
+  {
+    "title": "Why to Not Not Start a Startup",
+    "url": "https://www.paulgraham.com/notnot.html",
+    "file_path": "essays/Why to Not Not Start a Startup.txt"
+  },
+  {
+    "title": "Is It Worth Being Wise?",
+    "url": "https://www.paulgraham.com/wisdom.html",
+    "file_path": "essays/Is It Worth Being Wise?.txt"
+  },
+  {
+    "title": "Learning from Founders",
+    "url": "https://www.paulgraham.com/foundersatwork.html",
+    "file_path": "essays/Learning from Founders.txt"
+  },
+  {
+    "title": "How Art Can Be Good",
+    "url": "https://www.paulgraham.com/goodart.html",
+    "file_path": "essays/How Art Can Be Good.txt"
+  },
+  {
+    "title": "The 18 Mistakes That Kill Startups",
+    "url": "https://www.paulgraham.com/startupmistakes.html",
+    "file_path": "essays/The 18 Mistakes That Kill Startups.txt"
+  },
+  {
+    "title": "A Student's Guide to Startups",
+    "url": "https://www.paulgraham.com/mit.html",
+    "file_path": "essays/A Student's Guide to Startups.txt"
+  },
+  {
+    "title": "How to Present to Investors",
+    "url": "https://www.paulgraham.com/investors.html",
+    "file_path": "essays/How to Present to Investors.txt"
+  },
+  {
+    "title": "Copy What You Like",
+    "url": "https://www.paulgraham.com/copy.html",
+    "file_path": "essays/Copy What You Like.txt"
+  },
+  {
+    "title": "The Island Test",
+    "url": "https://www.paulgraham.com/island.html",
+    "file_path": "essays/The Island Test.txt"
+  },
+  {
+    "title": "The Power of the Marginal",
+    "url": "https://www.paulgraham.com/marginal.html",
+    "file_path": "essays/The Power of the Marginal.txt"
+  },
+  {
+    "title": "Why Startups Condense in America",
+    "url": "https://www.paulgraham.com/america.html",
+    "file_path": "essays/Why Startups Condense in America.txt"
+  },
+  {
+    "title": "How to Be Silicon Valley",
+    "url": "https://www.paulgraham.com/siliconvalley.html",
+    "file_path": "essays/How to Be Silicon Valley.txt"
+  },
+  {
+    "title": "The Hardest Lessons for Startups to Learn",
+    "url": "https://www.paulgraham.com/startuplessons.html",
+    "file_path": "essays/The Hardest Lessons for Startups to Learn.txt"
+  },
+  {
+    "title": "See Randomness",
+    "url": "https://www.paulgraham.com/randomness.html",
+    "file_path": "essays/See Randomness.txt"
+  },
+  {
+    "title": "Are Software Patents Evil?",
+    "url": "https://www.paulgraham.com/softwarepatents.html",
+    "file_path": "essays/Are Software Patents Evil?.txt"
+  },
+  {
+    "title": "6,631,372",
+    "url": "https://www.paulgraham.com/6631327.html",
+    "file_path": "essays/6,631,372.txt"
+  },
+  {
+    "title": "Why YC",
+    "url": "https://www.paulgraham.com/whyyc.html",
+    "file_path": "essays/Why YC.txt"
+  },
+  {
+    "title": "How to Do What You Love",
+    "url": "https://www.paulgraham.com/love.html",
+    "file_path": "essays/How to Do What You Love.txt"
+  },
+  {
+    "title": "Good and Bad Procrastination",
+    "url": "https://www.paulgraham.com/procrastination.html",
+    "file_path": "essays/Good and Bad Procrastination.txt"
+  },
+  {
+    "title": "Web 2.0",
+    "url": "https://www.paulgraham.com/web20.html",
+    "file_path": "essays/Web 2.0.txt"
+  },
+  {
+    "title": "How to Fund a Startup",
+    "url": "https://www.paulgraham.com/startupfunding.html",
+    "file_path": "essays/How to Fund a Startup.txt"
+  },
+  {
+    "title": "The Venture Capital Squeeze",
+    "url": "https://www.paulgraham.com/vcsqueeze.html",
+    "file_path": "essays/The Venture Capital Squeeze.txt"
+  },
+  {
+    "title": "Ideas for Startups",
+    "url": "https://www.paulgraham.com/ideas.html",
+    "file_path": "essays/Ideas for Startups.txt"
+  },
+  {
+    "title": "What I Did this Summer",
+    "url": "https://www.paulgraham.com/sfp.html",
+    "file_path": "essays/What I Did this Summer.txt"
+  },
+  {
+    "title": "Inequality and Risk",
+    "url": "https://www.paulgraham.com/inequality.html",
+    "file_path": "essays/Inequality and Risk.txt"
+  },
+  {
+    "title": "After the Ladder",
+    "url": "https://www.paulgraham.com/ladder.html",
+    "file_path": "essays/After the Ladder.txt"
+  },
+  {
+    "title": "What Business Can Learn from Open Source",
+    "url": "https://www.paulgraham.com/opensource.html",
+    "file_path": "essays/What Business Can Learn from Open Source.txt"
+  },
+  {
+    "title": "Hiring is Obsolete",
+    "url": "https://www.paulgraham.com/hiring.html",
+    "file_path": "essays/Hiring is Obsolete.txt"
+  },
+  {
+    "title": "The Submarine",
+    "url": "https://www.paulgraham.com/submarine.html",
+    "file_path": "essays/The Submarine.txt"
+  },
+  {
+    "title": "Why Smart People Have Bad Ideas",
+    "url": "https://www.paulgraham.com/bronze.html",
+    "file_path": "essays/Why Smart People Have Bad Ideas.txt"
+  },
+  {
+    "title": "Return of the Mac",
+    "url": "https://www.paulgraham.com/mac.html",
+    "file_path": "essays/Return of the Mac.txt"
+  },
+  {
+    "title": "Writing,  Briefly",
+    "url": "https://www.paulgraham.com/writing44.html",
+    "file_path": "essays/Writing,  Briefly.txt"
+  },
+  {
+    "title": "Undergraduation",
+    "url": "https://www.paulgraham.com/college.html",
+    "file_path": "essays/Undergraduation.txt"
+  },
+  {
+    "title": "A Unified Theory of VC Suckage",
+    "url": "https://www.paulgraham.com/venturecapital.html",
+    "file_path": "essays/A Unified Theory of VC Suckage.txt"
+  },
+  {
+    "title": "How to Start a Startup",
+    "url": "https://www.paulgraham.com/start.html",
+    "file_path": "essays/How to Start a Startup.txt"
+  },
+  {
+    "title": "What You'll Wish You'd Known",
+    "url": "https://www.paulgraham.com/hs.html",
+    "file_path": "essays/What You'll Wish You'd Known.txt"
+  },
+  {
+    "title": "Made in USA",
+    "url": "https://www.paulgraham.com/usa.html",
+    "file_path": "essays/Made in USA.txt"
+  },
+  {
+    "title": "It's Charisma, Stupid",
+    "url": "https://www.paulgraham.com/charisma.html",
+    "file_path": "essays/It's Charisma, Stupid.txt"
+  },
+  {
+    "title": "Bradley's Ghost",
+    "url": "https://www.paulgraham.com/polls.html",
+    "file_path": "essays/Bradley's Ghost.txt"
+  },
+  {
+    "title": "A Version 1.0",
+    "url": "https://www.paulgraham.com/laundry.html",
+    "file_path": "essays/A Version 1.0.txt"
+  },
+  {
+    "title": "What the Bubble Got Right",
+    "url": "https://www.paulgraham.com/bubble.html",
+    "file_path": "essays/What the Bubble Got Right.txt"
+  },
+  {
+    "title": "The Age of the Essay",
+    "url": "https://www.paulgraham.com/essay.html",
+    "file_path": "essays/The Age of the Essay.txt"
+  },
+  {
+    "title": "The Python Paradox",
+    "url": "https://www.paulgraham.com/pypar.html",
+    "file_path": "essays/The Python Paradox.txt"
+  },
+  {
+    "title": "Great Hackers",
+    "url": "https://www.paulgraham.com/gh.html",
+    "file_path": "essays/Great Hackers.txt"
+  },
+  {
+    "title": "Mind the Gap",
+    "url": "https://www.paulgraham.com/gap.html",
+    "file_path": "essays/Mind the Gap.txt"
+  },
+  {
+    "title": "How to Make Wealth",
+    "url": "https://www.paulgraham.com/wealth.html",
+    "file_path": "essays/How to Make Wealth.txt"
+  },
+  {
+    "title": "The Word \"Hacker\"",
+    "url": "https://www.paulgraham.com/gba.html",
+    "file_path": "essays/The Word \"Hacker\".txt"
+  },
+  {
+    "title": "What You Can't Say",
+    "url": "https://www.paulgraham.com/say.html",
+    "file_path": "essays/What You Can't Say.txt"
+  },
+  {
+    "title": "Filters that Fight Back",
+    "url": "https://www.paulgraham.com/ffb.html",
+    "file_path": "essays/Filters that Fight Back.txt"
+  },
+  {
+    "title": "Hackers and Painters",
+    "url": "https://www.paulgraham.com/hp.html",
+    "file_path": "essays/Hackers and Painters.txt"
+  },
+  {
+    "title": "If Lisp is So Great",
+    "url": "https://www.paulgraham.com/iflisp.html",
+    "file_path": "essays/If Lisp is So Great.txt"
+  },
+  {
+    "title": "The Hundred-Year Language",
+    "url": "https://www.paulgraham.com/hundred.html",
+    "file_path": "essays/The Hundred-Year Language.txt"
+  },
+  {
+    "title": "Why Nerds are Unpopular",
+    "url": "https://www.paulgraham.com/nerds.html",
+    "file_path": "essays/Why Nerds are Unpopular.txt"
+  },
+  {
+    "title": "Better Bayesian Filtering",
+    "url": "https://www.paulgraham.com/better.html",
+    "file_path": "essays/Better Bayesian Filtering.txt"
+  },
+  {
+    "title": "Design and Research",
+    "url": "https://www.paulgraham.com/desres.html",
+    "file_path": "essays/Design and Research.txt"
+  },
+  {
+    "title": "A Plan for Spam",
+    "url": "https://www.paulgraham.com/spam.html",
+    "file_path": "essays/A Plan for Spam.txt"
+  },
+  {
+    "title": "Revenge of the Nerds",
+    "url": "https://www.paulgraham.com/icad.html",
+    "file_path": "essays/Revenge of the Nerds.txt"
+  },
+  {
+    "title": "Succinctness is Power",
+    "url": "https://www.paulgraham.com/power.html",
+    "file_path": "essays/Succinctness is Power.txt"
+  },
+  {
+    "title": "What Languages Fix",
+    "url": "https://www.paulgraham.com/fix.html",
+    "file_path": "essays/What Languages Fix.txt"
+  },
+  {
+    "title": "Taste for Makers",
+    "url": "https://www.paulgraham.com/taste.html",
+    "file_path": "essays/Taste for Makers.txt"
+  },
+  {
+    "title": "Why Arc Isn't Especially Object-Oriented",
+    "url": "https://www.paulgraham.com/noop.html",
+    "file_path": "essays/Why Arc Isn't Especially Object-Oriented.txt"
+  },
+  {
+    "title": "What Made Lisp Different",
+    "url": "https://www.paulgraham.com/diff.html",
+    "file_path": "essays/What Made Lisp Different.txt"
+  },
+  {
+    "title": "The Other Road Ahead",
+    "url": "https://www.paulgraham.com/road.html",
+    "file_path": "essays/The Other Road Ahead.txt"
+  },
+  {
+    "title": "The Roots of Lisp",
+    "url": "https://www.paulgraham.com/rootsoflisp.html",
+    "file_path": "essays/The Roots of Lisp.txt"
+  },
+  {
+    "title": "Five Questions about Language Design",
+    "url": "https://www.paulgraham.com/langdes.html",
+    "file_path": "essays/Five Questions about Language Design.txt"
+  },
+  {
+    "title": "Being Popular",
+    "url": "https://www.paulgraham.com/popular.html",
+    "file_path": "essays/Being Popular.txt"
+  },
+  {
+    "title": "Java's Cover",
+    "url": "https://www.paulgraham.com/javacover.html",
+    "file_path": "essays/Java's Cover.txt"
+  },
+  {
+    "title": "Beating the Averages",
+    "url": "https://www.paulgraham.com/avg.html",
+    "file_path": "essays/Beating the Averages.txt"
+  },
+  {
+    "title": "Lisp for Web-Based Applications",
+    "url": "https://www.paulgraham.com/lwba.html",
+    "file_path": "essays/Lisp for Web-Based Applications.txt"
+  },
+  {
+    "title": "Programming Bottom-Up",
+    "url": "https://www.paulgraham.com/progbot.html",
+    "file_path": "essays/Programming Bottom-Up.txt"
+  },
+  {
+    "title": "This Year We Can End the Death Penalty in California",
+    "url": "https://www.paulgraham.com/prop62.html",
+    "file_path": "essays/This Year We Can End the Death Penalty in California.txt"
+  },
+  {
+    "title": "RSS",
+    "url": "https://www.paulgraham.com/rss.html",
+    "file_path": "essays/RSS.txt"
+  }
+]
