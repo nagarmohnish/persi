@@ -4,3 +4,5 @@ node_modules/
 .env
 *.db
 *.faiss
+venv/
+pgessay01/
