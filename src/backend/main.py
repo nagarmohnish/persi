@@ -27,6 +27,16 @@ app.add_middleware(
 async def root():
     return {"message": "Welcome to the Startup Assistant Bot API. Use /query to ask questions."}
 
+@app.get("/health")
+async def health_check():
+    try:
+        conn = sqlite3.connect(DB_PATH)
+        conn.close()
+        return {"status": "healthy", "message": "Database connection successful"}
+    except Exception as e:
+        logger.error(f"Health check failed: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Health check failed: {str(e)}")
+
 # File paths
 DATA_DIR = "data/processed"
 DB_PATH = os.getenv("DATABASE_PATH", "data/processed/essays.db")
