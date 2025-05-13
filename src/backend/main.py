@@ -38,8 +38,8 @@ async def health_check():
         raise HTTPException(status_code=500, detail=f"Health check failed: {str(e)}")
 
 # File paths
-DATA_DIR = "data/processed"
-DB_PATH = os.getenv("DATABASE_PATH", "data/processed/essays.db")
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data", "processed")
+DB_PATH = os.getenv("DATABASE_PATH", os.path.join(DATA_DIR, "essays.db"))
 FAISS_PATH = os.path.join(DATA_DIR, "essays_index.faiss")
 IDS_PATH = os.path.join(DATA_DIR, "essay_ids.txt")
 

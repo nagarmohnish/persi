@@ -4,6 +4,7 @@ WORKDIR /app
 COPY . .
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
+# Verify data files are copied
 RUN ls -la /app/data/processed
 
 EXPOSE 8000
