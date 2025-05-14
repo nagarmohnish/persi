@@ -3,6 +3,6 @@ uvicorn
 transformers
 torch
 faiss-cpu
-sentencepiece
 numpy
 pydantic
+hf_xet
