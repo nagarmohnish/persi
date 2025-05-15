@@ -13,10 +13,8 @@ try:
     logger.info("Starting module import for main.py")
     
     # File paths
-    DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "data", "processed"))
-    logger.info(f"DATA_DIR resolved to: {DATA_DIR}")
+    DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "data", "processed"))
     DB_PATH = os.path.join(DATA_DIR, "essays.db")
-    logger.info(f"DB_PATH resolved to: {DB_PATH}")
 
     # Verify file existence with detailed logging
     logger.info("Checking if DB_PATH exists")
