@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-transformers
-torch
-faiss-cpu
-numpy
 pydantic
-hf_xet
+# transformers
+# torch
+# faiss-cpu
+# numpy
+# hf_xet
