@@ -6,5 +6,7 @@ RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 RUN ls -la /app/data/processed
 
+# Set working directory to src/backend and run Uvicorn
+WORKDIR /app/src/backend
 EXPOSE 8000
-CMD ["uvicorn", "main.py:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
