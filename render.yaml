@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: persi
+    env: docker
+    dockerfilePath: src/backend/Dockerfile
+    buildContext: ./
+    repo: https://github.com/nagarmohnish/persi
