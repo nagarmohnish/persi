@@ -1,7 +1,13 @@
 services:
   - type: web
-    name: persi
+    name: persi-backend
     env: docker
     dockerfilePath: src/backend/Dockerfile
+    buildContext: ./
+    repo: https://github.com/nagarmohnish/persi
+  - type: web
+    name: persi-frontend
+    env: docker
+    dockerfilePath: src/frontend/Dockerfile
     buildContext: ./
     repo: https://github.com/nagarmohnish/persi
