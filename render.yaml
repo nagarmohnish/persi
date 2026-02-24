@@ -2,12 +2,23 @@ services:
   - type: web
     name: persi-backend
     env: docker
-    dockerfilePath: src/backend/Dockerfile
-    buildContext: ./
+    dockerfilePath: backend/Dockerfile
+    buildContext: backend/
     repo: https://github.com/nagarmohnish/persi
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: FRONTEND_URL
+        value: https://persi-frontend.onrender.com
+      - key: DEBUG
+        value: "false"
+
   - type: web
     name: persi-frontend
     env: docker
-    dockerfilePath: src/frontend/Dockerfile
-    buildContext: ./
+    dockerfilePath: frontend/Dockerfile
+    buildContext: frontend/
     repo: https://github.com/nagarmohnish/persi
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        value: https://persi-backend.onrender.com
